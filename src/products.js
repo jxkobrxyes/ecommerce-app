@@ -8,7 +8,7 @@ import product7 from './assets/AIO.jpg';
 import product8 from './assets/powerSupply.jpg';
 import product9 from './assets/fan.jpg';
 
-export const products = [
+export const PRODUCTS = [
   {
     id: 1,
     productName: 'CORSAIR iCUE 4000X RGB Tempered Glass Mid-Tower ATX PC Case',
@@ -49,21 +49,21 @@ export const products = [
     productName: 'Samsung 1 TB 870 EVO Solid state drive',
     price: 150.00,
     productImg: product6
-  }
+  },
 
   {
     id:7,
     productName: 'CORSAIR iCUE H150i ELITE CAPELLIX XT Liquid CPU Cooler',
     price: 229.99,
     productImg: product7
-  }
+  },
 
   {
     id:8,
     productName: 'Corsair RMX White Series (2018), RM850x, 850 Watt, 80+ Gold Certified, Fully Modular Power Supply',
     price: 275.20,
     productImg: product8
-  }
+  },
 
   {
     id:9,
