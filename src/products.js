@@ -61,7 +61,7 @@ export const PRODUCTS = [
   {
     id:8,
     productName: 'Corsair RMX White Series (2018), RM850x, 850 Watt, 80+ Gold Certified, Fully Modular Power Supply',
-    price: 275.20,
+    price: 275.25,
     productImg: product8
   },
 

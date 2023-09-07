@@ -3,23 +3,22 @@ body {
     padding: 0;
 }
 
-.navbar {
-    height: 80px;
-    background-color: black;
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-}
-
-.links {
-    margin-right: 50px;
-    display: flex;
-    align-items: center;
-}
-
-.links a{
+.title a {
     text-decoration: none;
     color: white;
-    margin-left: 20px;
+    margin-left: 25px;
     font-size: 25px;
+}
+
+.navbar {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar ul a{
+    display: block;
+    color: white;
+    margin-right: 25px;
 }
